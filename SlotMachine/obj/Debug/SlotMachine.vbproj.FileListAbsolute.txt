@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2017\Projects\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe.config
+c:\users\user\documents\visual studio 2017\Projects\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe
+c:\users\user\documents\visual studio 2017\Projects\SlotMachine\SlotMachine\bin\Debug\SlotMachine.pdb
+c:\users\user\documents\visual studio 2017\Projects\SlotMachine\SlotMachine\bin\Debug\SlotMachine.xml
+c:\users\user\documents\visual studio 2017\Projects\SlotMachine\SlotMachine\obj\Debug\SlotMachine.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\SlotMachine\SlotMachine\obj\Debug\SlotMachine.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe
+c:\users\user\documents\visual studio 2017\Projects\SlotMachine\SlotMachine\obj\Debug\SlotMachine.xml
+c:\users\user\documents\visual studio 2017\Projects\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb
